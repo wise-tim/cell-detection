@@ -1,5 +1,5 @@
 Label sliced images - Daniel
-Split data into training and testing - Daniel
+Split data into training and testing - Roarke
 Make our own CNN - Roarke
 Try a pre-trained DNN - Tim
 IOU - Josh
