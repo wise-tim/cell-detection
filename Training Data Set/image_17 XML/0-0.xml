@@ -1,7 +1,7 @@
 <annotation>
-	<folder>image_2</folder>
-	<filename>2-0.png</filename>
-	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_2/2-0.png</path>
+	<folder>image_17</folder>
+	<filename>0-0.png</filename>
+	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/0-0.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>14</xmin>
-			<ymin>6</ymin>
-			<xmax>29</xmax>
-			<ymax>19</ymax>
+			<xmin>9</xmin>
+			<ymin>25</ymin>
+			<xmax>20</xmax>
+			<ymax>35</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>35</xmin>
-			<ymin>18</ymin>
+			<xmin>22</xmin>
+			<ymin>4</ymin>
+			<xmax>31</xmax>
+			<ymax>13</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>4</ymin>
 			<xmax>50</xmax>
-			<ymax>32</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cell</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3</xmin>
-			<ymin>35</ymin>
-			<xmax>19</xmax>
-			<ymax>49</ymax>
+			<ymax>13</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,21 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>41</xmin>
-			<ymin>40</ymin>
+			<xmin>48</xmin>
+			<ymin>26</ymin>
 			<xmax>56</xmax>
+			<ymax>38</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>44</ymin>
+			<xmax>53</xmax>
 			<ymax>53</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +77,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>38</xmin>
-			<ymin>1</ymin>
-			<xmax>56</xmax>
-			<ymax>12</ymax>
+			<xmin>16</xmin>
+			<ymin>46</ymin>
+			<xmax>26</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>14</ymin>
+			<xmax>28</xmax>
+			<ymax>23</ymax>
 		</bndbox>
 	</object>
 </annotation>

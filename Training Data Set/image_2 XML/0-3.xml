@@ -1,7 +1,7 @@
 <annotation>
 	<folder>image_2</folder>
 	<filename>0-3.png</filename>
-	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/slices/image_2/0-3.png</path>
+	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_2/0-3.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>22</ymin>
 			<xmax>29</xmax>
 			<ymax>40</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>20</ymin>
+			<xmax>9</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>41</ymin>
+			<xmax>8</xmax>
+			<ymax>55</ymax>
 		</bndbox>
 	</object>
 </annotation>

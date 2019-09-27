@@ -1,7 +1,7 @@
 <annotation>
-	<folder>image_2</folder>
-	<filename>1-0.png</filename>
-	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_2/1-0.png</path>
+	<folder>image_15</folder>
+	<filename>2-1.png</filename>
+	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_15/2-1.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>10</xmin>
-			<ymin>8</ymin>
-			<xmax>30</xmax>
-			<ymax>23</ymax>
+			<xmin>17</xmin>
+			<ymin>18</ymin>
+			<xmax>26</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>39</xmin>
-			<ymin>22</ymin>
-			<xmax>55</xmax>
-			<ymax>36</ymax>
+			<ymin>10</ymin>
+			<xmax>50</xmax>
+			<ymax>19</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>37</ymin>
-			<xmax>34</xmax>
-			<ymax>52</ymax>
+			<xmin>35</xmin>
+			<ymin>29</ymin>
+			<xmax>45</xmax>
+			<ymax>39</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>15</ymin>
-			<xmax>7</xmax>
-			<ymax>31</ymax>
+			<ymin>25</ymin>
+			<xmax>8</xmax>
+			<ymax>36</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>17</xmax>
+			<ymax>8</ymax>
 		</bndbox>
 	</object>
 </annotation>
