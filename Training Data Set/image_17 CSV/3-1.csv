@@ -1,0 +1,11 @@
+﻿folder,filename,path,database,width,height,depth,segmented,name,pose,truncated,difficult,xmin,ymin,xmax,ymax
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,19,16,28,27
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,15,2,26,15
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,35,31,44,40
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,6,24,17,34
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,13,45,23,55
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,32,42,43,54
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,1,0,26,1,36,10
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,1,0,47,33,56,43
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,1,0,1,1,9,10
+image_17,3-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_17/3-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,25,35,35,45
