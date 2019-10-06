@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image_6</folder>
+	<filename>1-0.png</filename>
+	<path>/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_6/1-0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>56</width>
+		<height>56</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>15</ymin>
+			<xmax>29</xmax>
+			<ymax>27</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>37</ymin>
+			<xmax>46</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>
