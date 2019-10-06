@@ -1,0 +1,6 @@
+﻿folder,filename,path,database,width,height,depth,segmented,name,pose,truncated,difficult,xmin,ymin,xmax,ymax
+image_15,0-0.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_15/0-0.png,Unknown,56,56,1,0,cell,Unspecified,0,0,13,34,23,47
+image_15,0-0.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_15/0-0.png,Unknown,56,56,1,0,cell,Unspecified,0,0,28,18,39,28
+image_15,0-0.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_15/0-0.png,Unknown,56,56,1,0,cell,Unspecified,0,0,39,26,49,38
+image_15,0-0.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_15/0-0.png,Unknown,56,56,1,0,cell,Unspecified,1,0,33,48,47,56
+image_15,0-0.png,/Users/danielsantosa/Documents/GitHub/cell-detection/Training Data Set/image_15/0-0.png,Unknown,56,56,1,0,cell,Unspecified,0,0,39,8,49,18
