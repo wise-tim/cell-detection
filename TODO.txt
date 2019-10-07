@@ -1,5 +1,15 @@
-Label sliced images - Daniel
-Split data into training and testing - Roarke
-Make our own CNN - Roarke
+TODOs:
+Label sliced images - Daniel (DONE)
+Split data into training and testing - Roarke (DONE)
+Make our own CNN - Roarke (MOSTLY DONE)
 Try a pre-trained DNN - Tim
-IOU - Josh
+IOU - Josh (Loss measures included in current model)
+--NEW--
+Use visualize.py for displaying boxes/masks
+Try training in with different steps/epochs/head v full
+Need to clean and organise all code
+
+Notes:
+When predicting on a full size image, the image may need to be broken down 
+into same dimensions as training data and stitched back together
+Current accuracy roughly 65%
