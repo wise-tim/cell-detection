@@ -1,5 +1,0 @@
-﻿folder,filename,path,database,width,height,depth,segmented,name,pose,truncated,difficult,xmin,ymin,xmax,ymax
-image_2,1-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/slices/image_2/1-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,9,8,23,24
-image_2,1-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/slices/image_2/1-1.png,Unknown,56,56,1,0,cell,Unspecified,0,0,27,27,42,42
-image_2,1-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/slices/image_2/1-1.png,Unknown,56,56,1,0,cell,Unspecified,1,0,24,1,39,14
-image_2,1-1.png,/Users/danielsantosa/Documents/GitHub/cell-detection/slices/image_2/1-1.png,Unknown,56,56,1,0,cell,Unspecified,1,0,7,43,26,56
